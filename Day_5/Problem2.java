@@ -1,4 +1,4 @@
-package Oops;
+package Day_5;
 
 class StudentProfile {
 
