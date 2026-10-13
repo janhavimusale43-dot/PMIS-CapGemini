@@ -1,6 +1,6 @@
 //Hierarchical inheritence
 
-package Day06;
+
 
 class Shape{
     String color = "Purple";

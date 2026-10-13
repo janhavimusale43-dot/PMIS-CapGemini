@@ -1,4 +1,4 @@
-package Day06;
+
 
 class Animal{
     void eat(){

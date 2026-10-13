@@ -1,6 +1,6 @@
 //multi-level inheritence
 
-package Day06;
+
 
 //parent class
 class Device{
