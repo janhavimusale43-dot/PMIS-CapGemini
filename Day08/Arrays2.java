@@ -11,12 +11,6 @@ public class Arrays2 {
         System.out.print("Enter size of array: ");
         int n = sc.nextInt();
 
-        if (n <= 0) {
-            System.out.println("Array size must be greater than zero.");
-            sc.close();
-            return;
-        }
-
         int[] arr = new int[n];
 
         System.out.println("Enter " + n + " elements:");
